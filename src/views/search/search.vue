@@ -1,12 +1,10 @@
 <template>
-  <div>
-    qa
-  </div>
+  <div>搜索</div>
 </template>
 
 <script>
 export default {
-  name: 'QaPage'
+  name: 'SearchPage'
 }
 </script>
 
