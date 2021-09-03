@@ -35,7 +35,7 @@
     <!-- 频道推荐 -->
     <van-cell :border="false">
       <div slot="title"
-           class="title-text">频道推荐123</div>
+           class="title-text">频道推荐</div>
     </van-cell>
     <van-grid class="recommend-grid"
               :gutter="10">
